@@ -481,22 +481,22 @@ export default function RiverFrontCafe() {
 
             <div className="grid grid-cols-2 gap-4">
               <img
-                src="/IMG_6045.png"
+                src="/IMG_6045.PNG"
                 alt="Traditional Varanasi thali with poori, sabzi, and accompaniments arranged on a brass plate"
                 className="rounded-lg shadow-md"
               />
               <img
-                src="IMG_6031.png"
+                src="IMG_6031.PNG"
                 alt="Soya chaap curry served in traditional bowl with garnishes"
                 className="rounded-lg shadow-md"
               />
               <img
-                src="/IMG_6030.png"
+                src="/IMG_6030.PNG"
                 alt="Riverside dining setup with customers enjoying meals at wooden tables"
                 className="rounded-lg shadow-md"
               />
               <img
-                src="IMG_6044.png"
+                src="IMG_6044.PNG"
                 alt="Chef preparing fresh dosa at the restaurant kitchen"
                 className="rounded-lg shadow-md"
               />

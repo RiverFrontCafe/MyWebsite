@@ -472,7 +472,7 @@ export default function RiverFrontCafe() {
                   <MapPin className="text-[#FF7900] mt-1 mr-3" size={20} />
                   <div>
                     <p className="font-semibold">Address</p>
-                    <p className="text-gray-700">Riverside Road, Near Gandhi Bridge, Lucknow, Uttar Pradesh 226001</p>
+                    <p className="text-gray-700">Shop 5A, Marine Drive, Gomti River Front, Lucknow, Uttar Pradesh 226001</p>
                   </div>
                 </div>
                 
@@ -480,7 +480,7 @@ export default function RiverFrontCafe() {
                   <Phone className="text-[#FF7900] mt-1 mr-3" size={20} />
                   <div>
                     <p className="font-semibold">Phone</p>
-                    <p className="text-gray-700">+91 98765 43210</p>
+                    <p className="text-gray-700">+91 9026926217</p>
                   </div>
                 </div>
                 
@@ -488,7 +488,7 @@ export default function RiverFrontCafe() {
                   <Mail className="text-[#FF7900] mt-1 mr-3" size={20} />
                   <div>
                     <p className="font-semibold">Email</p>
-                    <p className="text-gray-700">info@riverfrontcafe.com</p>
+                    <p className="text-gray-700">contact@riverfrontcafe.in</p>
                   </div>
                 </div>
                 
@@ -552,7 +552,7 @@ export default function RiverFrontCafe() {
           </div>
           
           <div className="border-t border-[#2C5F2D] mt-8 pt-8 text-center text-gray-300">
-            <p>© 2023 River Front Cafe. All rights reserved.</p>
+            <p>© 2025 River Front Cafe. All rights reserved.</p>
           </div>
         </div>
       </footer>

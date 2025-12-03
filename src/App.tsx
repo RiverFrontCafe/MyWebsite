@@ -195,7 +195,12 @@ export default function RiverFrontCafe() {
                 River Front Cafe
               </h1>
               <span className="ml-2 text-sm text-[#FF7900]">
-                Where Tradition Meets Taste by the Riverside. Subah-e-Banaras, Shaam-e-Awadh
+                <p>
+                  Where Tradition Meets Taste by the Riverside 
+                </p>
+                <p>
+                  Subah-e-Banaras, Shaam-e-Awadh
+                </p>  
               </span>
             </div>
 
@@ -344,7 +349,7 @@ export default function RiverFrontCafe() {
           <div className="grid md:grid-cols-2 gap-12 items-center">
             <div>
               <img
-                src="./src/assets/MyCafeAI.png"
+                src="/src/assets/MyCafeAI.png"
                 alt="Founders of River Front Cafe standing outside the restaurant with the river in the background"
                 className="rounded-lg shadow-md"
               />
@@ -441,7 +446,7 @@ export default function RiverFrontCafe() {
             <div className="w-20 h-1 bg-[#FF7900] mx-auto"></div>
           </div>
 
-          <div className="grid md:grid-cols-2 gap-8">
+          <div className="grid md:grid-cols-2 gap-8 place-items-center">
             <div>
               <h3 className="text-2xl font-semibold text-[#164c56] mb-4">
                 Authentic Varanasi Specialties
@@ -476,22 +481,22 @@ export default function RiverFrontCafe() {
 
             <div className="grid grid-cols-2 gap-4">
               <img
-                src="https://storage.googleapis.com/workspace-0f70711f-8b4e-4d94-86f1-2a93ccde5887/image/fa85ee44-5cea-450a-9e17-17c9f2c34b33.png"
+                src="/src/assets/IMG_6045.png"
                 alt="Traditional Varanasi thali with poori, sabzi, and accompaniments arranged on a brass plate"
                 className="rounded-lg shadow-md"
               />
               <img
-                src="https://storage.googleapis.com/workspace-0f70711f-8b4e-4d94-86f1-2a93ccde5887/image/02f93a64-e3bb-4e98-8c8c-3265f859e1f1.png"
+                src="/src/assets/IMG_6031.png"
                 alt="Soya chaap curry served in traditional bowl with garnishes"
                 className="rounded-lg shadow-md"
               />
               <img
-                src="https://storage.googleapis.com/workspace-0f70711f-8b4e-4d94-86f1-2a93ccde5887/image/42876082-0edd-4bb4-a3bd-6a84f7cc31db.png"
+                src="/src/assets/IMG_6030.png"
                 alt="Riverside dining setup with customers enjoying meals at wooden tables"
                 className="rounded-lg shadow-md"
               />
               <img
-                src="https://storage.googleapis.com/workspace-0f70711f-8b4e-4d94-86f1-2a93ccde5887/image/5d97dd09-9f5e-4d57-bc39-927e1e8f85df.png"
+                src="/src/assets/IMG_6044.png"
                 alt="Chef preparing fresh dosa at the restaurant kitchen"
                 className="rounded-lg shadow-md"
               />
@@ -735,12 +740,16 @@ export default function RiverFrontCafe() {
           </p>
 
           <div className="flex flex-col sm:flex-row justify-center gap-4">
+            <a href="https://riverfrontcafe.dotpe.in/" target="_blank" rel="noopener noreferrer">
             <button className="bg-white text-[#FF7900] font-bold py-3 px-6 rounded-lg hover:bg-gray-100 transition-colors">
               Order Online
             </button>
+            </a>
+            <a href="https://riverfrontcafe.dotpe.in/" target="_blank" rel="noopener noreferrer">
             <button className="bg-[#164c56] text-white font-bold py-3 px-6 rounded-lg hover:bg-[#0f363e] transition-colors">
               Reserve Table
             </button>
+            </a>
           </div>
         </div>
       </section>

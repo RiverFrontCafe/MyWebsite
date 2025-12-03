@@ -195,7 +195,7 @@ export default function RiverFrontCafe() {
                 River Front Cafe
               </h1>
               <span className="ml-2 text-sm text-[#FF7900]">
-                Where Tradition Meets Taste by the Riverside
+                Where Tradition Meets Taste by the Riverside. Subah-e-Banaras, Shaam-e-Awadh
               </span>
             </div>
 
@@ -316,12 +316,16 @@ export default function RiverFrontCafe() {
             </p>
 
             <div className="flex flex-col sm:flex-row gap-4">
+              <a href="https://riverfrontcafe.dotpe.in/" target="_blank" rel="noopener noreferrer">
               <button className="bg-[#FF7900] hover:bg-[#e56d00] text-white font-bold py-3 px-6 rounded-lg transition-colors flex items-center justify-center">
                 View Menu <ChevronRight className="ml-2" size={20} />
               </button>
+              </a>
+              <a href="https://riverfrontcafe.dotpe.in/" target="_blank" rel="noopener noreferrer">
               <button className="bg-white hover:bg-gray-100 text-[#164c56] font-bold py-3 px-6 rounded-lg transition-colors">
                 Order Now
               </button>
+              </a>
             </div>
           </div>
         </div>
@@ -340,7 +344,7 @@ export default function RiverFrontCafe() {
           <div className="grid md:grid-cols-2 gap-12 items-center">
             <div>
               <img
-                src="https://storage.googleapis.com/workspace-0f70711f-8b4e-4d94-86f1-2a93ccde5887/image/baa229f5-b12e-40fc-96e3-5279e1ba3d58.png"
+                src="./src/assets/MyCafeAI.png"
                 alt="Founders of River Front Cafe standing outside the restaurant with the river in the background"
                 className="rounded-lg shadow-md"
               />
@@ -788,7 +792,7 @@ export default function RiverFrontCafe() {
                   <div>
                     <p className="font-semibold">Hours</p>
                     <p className="text-gray-700">
-                      Monday-Sunday: 11:00 AM - 11:00 PM
+                      Monday-Sunday: 2:00 PM - 12:00 AM
                     </p>
                   </div>
                 </div>
@@ -821,6 +825,9 @@ export default function RiverFrontCafe() {
               <h3 className="text-xl font-semibold mb-4">River Front Cafe</h3>
               <p className="text-gray-300">
                 Where Tradition Meets Taste by the Riverside
+              </p>
+              <p className="text-gray-300 mt-4">  
+                Subah-e-Banaras, Shaam-e-Awadh
               </p>
             </div>
 

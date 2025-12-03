@@ -349,7 +349,7 @@ export default function RiverFrontCafe() {
           <div className="grid md:grid-cols-2 gap-12 items-center">
             <div>
               <img
-                src="../src/assets/MyCafeAI.png"
+                src="MyCafeAI.png"
                 alt="Founders of River Front Cafe standing outside the restaurant with the river in the background"
                 className="rounded-lg shadow-md"
               />
@@ -481,22 +481,22 @@ export default function RiverFrontCafe() {
 
             <div className="grid grid-cols-2 gap-4">
               <img
-                src="../src/assets/IMG_6045.png"
+                src="/IMG_6045.png"
                 alt="Traditional Varanasi thali with poori, sabzi, and accompaniments arranged on a brass plate"
                 className="rounded-lg shadow-md"
               />
               <img
-                src="../src/assets/IMG_6031.png"
+                src="IMG_6031.png"
                 alt="Soya chaap curry served in traditional bowl with garnishes"
                 className="rounded-lg shadow-md"
               />
               <img
-                src="../src/assets/IMG_6030.png"
+                src="/IMG_6030.png"
                 alt="Riverside dining setup with customers enjoying meals at wooden tables"
                 className="rounded-lg shadow-md"
               />
               <img
-                src="../src/assets/IMG_6044.png"
+                src="IMG_6044.png"
                 alt="Chef preparing fresh dosa at the restaurant kitchen"
                 className="rounded-lg shadow-md"
               />

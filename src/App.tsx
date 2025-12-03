@@ -505,7 +505,7 @@ export default function RiverFrontCafe() {
             <div>
               <h3 className="text-xl font-semibold text-[#164c56] mb-4">Find Us on Map</h3>
               <div className="bg-gray-200 h-64 rounded-lg flex items-center justify-center">
-                <p className="text-gray-600">Google Maps integration would go here</p>
+                <p className="text-gray-600">https://maps.app.goo.gl/KBeHo6R2DmnzQwD86</p>
               </div>
             </div>
           </div>
